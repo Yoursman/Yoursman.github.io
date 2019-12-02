@@ -6,7 +6,7 @@ this is a text sample.
 __bold__
  *italic*
 
- this is a [hyperlink](https://www.bilibili.com/video/av75225128/?spm_id_from=333.788.videocard.0)
+ this is a [hyperlink](more.md)
 
 > this is some quotation.
 
